@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteDAndradeConsoleApp/1.0.0": {
+        "dependencies": {
+          "TesteDAndradeClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TesteDAndradeConsoleApp.dll": {}
+        }
+      },
+      "TesteDAndradeClassLibrary/1.0.0": {
+        "runtime": {
+          "TesteDAndradeClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteDAndradeConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteDAndradeClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

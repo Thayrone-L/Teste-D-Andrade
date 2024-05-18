@@ -1,0 +1,11 @@
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\bin\Release\net8.0\TesteDAndradeClassLibrary.deps.json
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\bin\Release\net8.0\TesteDAndradeClassLibrary.dll
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\bin\Release\net8.0\TesteDAndradeClassLibrary.pdb
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\obj\Release\net8.0\TesteDAndradeClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\obj\Release\net8.0\TesteDAndradeClassLibrary.AssemblyInfoInputs.cache
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\obj\Release\net8.0\TesteDAndradeClassLibrary.AssemblyInfo.cs
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\obj\Release\net8.0\TesteDAndradeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\obj\Release\net8.0\TesteDAndradeClassLibrary.dll
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\obj\Release\net8.0\refint\TesteDAndradeClassLibrary.dll
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\obj\Release\net8.0\TesteDAndradeClassLibrary.pdb
+C:\Users\thayr\OneDrive\Documentos\Repositórios\Teste D Andrade\TesteDAndrade\TesteDAndradeClassLibrary\obj\Release\net8.0\ref\TesteDAndradeClassLibrary.dll
